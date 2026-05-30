@@ -17,6 +17,17 @@ Over a decade designing and building distributed systems — the kind that need 
 
 ---
 
+## ✦ highlights
+
+- Designed and built a **nationwide delivery platform** from scratch — automated transport orders, real-time tracking, deployed at scale across hundreds of stores
+- Shipped a **truck-loading algorithm** that maximises fill-rate automatically, cutting manual corrections by half
+- Built **reactive data pipelines** ingesting millions of records without downtime
+- Founded a **tech community** that grew from one division to an entire company
+- Trained a **multi-layer perceptron from scratch** — no framework, just math and Rust
+
+---
+
 ## 🔨 what i'm building
 
-> check the pinned repos below 👇
+**MLP from scratch** — exploring deep learning fundamentals, no framework, just math and Rust  
+→ and whatever else ends up pinned below 👇
